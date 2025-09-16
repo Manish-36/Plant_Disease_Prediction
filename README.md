@@ -2,12 +2,11 @@
 |---|---|
 | CNN Definition | ![2  CNN Definition](https://github.com/user-attachments/assets/125c1501-ea06-45e8-926a-1342cd312e26) |
 | CNN Definition | ![2  CNN Definition](https://github.com/user-attachments/assets/04041a25-af21-4e89-b160-ef156b038477) |
-| Model Accuracy | ![5  Model Accuracy](https://github.com/user-attachments/assets/ab217aec-f18a-4131-bb82-819a4ceb9b56) |
-| Model Loss | ![6  Model Loss](https://github.com/user-attachments/assets/63560d83-3313-49b8-b8fa-4fb4ca6521a3) |
-| Frontend 1 | ![1](https://github.com/user-attachments/assets/cf8ccfb8-81b0-497c-8d1c-a681888866cb) |
-| Frontend 2 | ![3](https://github.com/user-attachments/assets/f5e44709-5abf-4813-b712-22b249b087da) |
-| Processing | <img width="400" alt="1  Processing" src="https://github.com/user-attachments/assets/200d99e2-0e53-4a95-a328-cb57e5bf91f1"> |
-| Segmentation 1 | <img width="425" alt="2  Segmentation 1" src="https://github.com/user-attachments/assets/16d19e2e-cb1f-4010-b6fb-55247def8c0a"> |
-| Segmentation 2 | <img width="415" alt="3  Segmentation 2" src="https://github.com/user-attachments/assets/80ee8197-dc08-4f27-9729-bced7a2026b2"> |
-| Segmentation 3 | <img width="643" alt="4  Segmentation 3" src="https://github.com/user-attachments/assets/399e74e0-d89a-438a-a337-1c8a35121181"> |
-| Feature Extraction | <img width="411" alt="5  Feature Extraction" src="https://github.com/user-attachments/assets/954c8c4f-2e9a-4453-a084-b43609861470"> |
+| Model Accuracy | ![5  Model Accuracy](https://github.com/user-attachments/assets/93e48fe8-b1b9-4793-ab83-f180d3e235d1) |
+| Frontend 1 | ![1](https://github.com/user-attachments/assets/44df56ad-5079-4d29-b8ef-4ad535709acc) |
+| Frontend 2 | ![3](https://github.com/user-attachments/assets/e1a84f11-d9b4-4b0b-80eb-71afae149c41) |
+| Frontend 3 | ![3](https://github.com/user-attachments/assets/a3dcedad-9812-400c-8ce4-0e51eeb04e13) |
+| Frontend 4 | ![3](https://github.com/user-attachments/assets/8f3b45c7-7ffb-4f12-b910-de96f23dea41) |
+| Frontend 5 | ![3](https://github.com/user-attachments/assets/6bdc38b1-7a29-46d8-9432-f279f8eb95f8) |
+| Frontend 6 | ![3](https://github.com/user-attachments/assets/6247a30f-dd16-4014-86a3-c79133acb91f) |
+

@@ -1,0 +1,4 @@
+# Ignore dataset folders
+train/
+test/
+valid/

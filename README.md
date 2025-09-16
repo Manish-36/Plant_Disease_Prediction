@@ -10,3 +10,10 @@
 | Frontend 5 | ![3](https://github.com/user-attachments/assets/6bdc38b1-7a29-46d8-9432-f279f8eb95f8) |
 | Frontend 6 | ![3](https://github.com/user-attachments/assets/6247a30f-dd16-4014-86a3-c79133acb91f) |
 
+# How to run this project:
+
+1. Activate tensorflow environment  -->  conda activate ENV_NAME
+2. Run this command on terminal  --> streamlit run main.py
+
+
+dataset link = https://www.kaggle.com/datasets/vipoooool/new-plant-diseases-dataset
